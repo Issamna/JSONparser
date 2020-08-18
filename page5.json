@@ -1,0 +1,156 @@
+﻿{
+    "id": "d09251d5-90e9-49ed-b9f0-82987246921f",
+    "recordId": "zg13shrengmailcom_1597664151612_154598714",
+    "filename": "lava page 5.mp3",
+    "startTimeOffset": 0,
+    "speakers": [
+        {
+            "spkid": "spk1",
+            "name": "Speaker 1"
+        }
+    ],
+    "segments": [
+        {
+            "speaker": "spk1",
+            "words": [
+                {
+                    "start": 0.75,
+                    "end": 1.02,
+                    "duration": 0.26999998,
+                    "text": "In",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 1.02,
+                    "end": 1.11,
+                    "duration": 0.09000003,
+                    "text": "the",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 1.11,
+                    "end": 1.41,
+                    "duration": 0.29999995,
+                    "text": "game,",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 1.41,
+                    "end": 1.65,
+                    "duration": 0.24000001,
+                    "text": "one",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 1.65,
+                    "end": 2.07,
+                    "duration": 0.41999996,
+                    "text": "person",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 2.07,
+                    "end": 2.22,
+                    "duration": 0.1500001,
+                    "text": "will",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 2.22,
+                    "end": 2.61,
+                    "duration": 0.38999987,
+                    "text": "shout,",
+                    "conf": 0.97,
+                    "pristine": true
+                },
+                {
+                    "start": 2.88,
+                    "end": 3.03,
+                    "duration": 0.14999986,
+                    "text": "the",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 3.03,
+                    "end": 3.33,
+                    "duration": 0.29999995,
+                    "text": "floor",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 3.33,
+                    "end": 3.48,
+                    "duration": 0.1500001,
+                    "text": "is",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 3.48,
+                    "end": 3.93,
+                    "duration": 0.45000005,
+                    "text": "lava",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 4.44,
+                    "end": 4.71,
+                    "duration": 0.26999998,
+                    "text": "and",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 4.71,
+                    "end": 5.01,
+                    "duration": 0.3000002,
+                    "text": "start",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 5.01,
+                    "end": 5.46,
+                    "duration": 0.4499998,
+                    "text": "counting",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 5.46,
+                    "end": 5.76,
+                    "duration": 0.3000002,
+                    "text": "down",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 5.76,
+                    "end": 6,
+                    "duration": 0.23999977,
+                    "text": "from",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 6,
+                    "end": 6.45,
+                    "duration": 0.4499998,
+                    "text": "five.",
+                    "conf": 1,
+                    "pristine": true
+                }
+            ]
+        }
+    ],
+    "highlights": []
+}

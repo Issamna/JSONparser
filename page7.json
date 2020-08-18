@@ -1,0 +1,132 @@
+﻿{
+    "id": "c2635907-4751-4562-87a1-b3f31508309f",
+    "recordId": "zg13shrengmailcom_1597664151613_152751672",
+    "filename": "lava page 7.mp3",
+    "startTimeOffset": 0,
+    "speakers": [
+        {
+            "spkid": "spk1",
+            "name": "Speaker 1"
+        }
+    ],
+    "segments": [
+        {
+            "speaker": "spk1",
+            "words": [
+                {
+                    "start": 1.12,
+                    "end": 1.75,
+                    "duration": 0.63,
+                    "text": "Anyone",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 1.75,
+                    "end": 1.87,
+                    "duration": 0.120000005,
+                    "text": "who",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 1.87,
+                    "end": 2.02,
+                    "duration": 0.14999998,
+                    "text": "is",
+                    "conf": 0.97,
+                    "pristine": true
+                },
+                {
+                    "start": 2.02,
+                    "end": 2.44,
+                    "duration": 0.42000008,
+                    "text": "touching",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 2.44,
+                    "end": 2.53,
+                    "duration": 0.089999914,
+                    "text": "the",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 2.53,
+                    "end": 2.92,
+                    "duration": 0.3900001,
+                    "text": "floor",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 2.92,
+                    "end": 3.07,
+                    "duration": 0.14999986,
+                    "text": "when",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 3.07,
+                    "end": 3.16,
+                    "duration": 0.09000015,
+                    "text": "the",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 3.16,
+                    "end": 3.73,
+                    "duration": 0.56999993,
+                    "text": "countdown",
+                    "conf": 0.97,
+                    "pristine": true
+                },
+                {
+                    "start": 3.73,
+                    "end": 3.94,
+                    "duration": 0.21000004,
+                    "text": "gets",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 3.94,
+                    "end": 4.06,
+                    "duration": 0.119999886,
+                    "text": "to",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 4.06,
+                    "end": 4.6,
+                    "duration": 0.53999996,
+                    "text": "zero",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 4.6,
+                    "end": 5.08,
+                    "duration": 0.48000002,
+                    "text": "is",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 5.08,
+                    "end": 5.59,
+                    "duration": 0.5100002,
+                    "text": "out.",
+                    "conf": 0.74,
+                    "pristine": true
+                }
+            ]
+        }
+    ],
+    "highlights": []
+}

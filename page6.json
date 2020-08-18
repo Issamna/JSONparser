@@ -1,0 +1,164 @@
+﻿{
+    "id": "4b46d58a-7f34-4fec-9c39-5224701ce85e",
+    "recordId": "zg13shrengmailcom_1597664151631_153675193",
+    "filename": "lava page 6.mp3",
+    "startTimeOffset": 0,
+    "speakers": [
+        {
+            "spkid": "spk1",
+            "name": "Speaker 1"
+        }
+    ],
+    "segments": [
+        {
+            "speaker": "spk1",
+            "words": [
+                {
+                    "start": 0.75,
+                    "end": 1.2,
+                    "duration": 0.45000005,
+                    "text": "Then",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 1.2,
+                    "end": 1.71,
+                    "duration": 0.51,
+                    "text": "everyone",
+                    "conf": 0.99,
+                    "pristine": true
+                },
+                {
+                    "start": 1.71,
+                    "end": 1.83,
+                    "duration": 0.120000005,
+                    "text": "that",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 1.83,
+                    "end": 1.98,
+                    "duration": 0.14999998,
+                    "text": "is",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 1.98,
+                    "end": 2.49,
+                    "duration": 0.51,
+                    "text": "playing",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 2.49,
+                    "end": 2.79,
+                    "duration": 0.29999995,
+                    "text": "has",
+                    "conf": 0.98,
+                    "pristine": true
+                },
+                {
+                    "start": 2.79,
+                    "end": 2.88,
+                    "duration": 0.09000015,
+                    "text": "to",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 2.88,
+                    "end": 3.09,
+                    "duration": 0.2099998,
+                    "text": "get",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 3.09,
+                    "end": 3.39,
+                    "duration": 0.3000002,
+                    "text": "onto",
+                    "conf": 0.94,
+                    "pristine": true
+                },
+                {
+                    "start": 3.39,
+                    "end": 3.45,
+                    "duration": 0.059999943,
+                    "text": "a",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 3.45,
+                    "end": 3.84,
+                    "duration": 0.38999987,
+                    "text": "piece",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 3.84,
+                    "end": 3.93,
+                    "duration": 0.09000015,
+                    "text": "of",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 3.93,
+                    "end": 4.47,
+                    "duration": 0.5399997,
+                    "text": "furniture",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 4.47,
+                    "end": 4.74,
+                    "duration": 0.26999998,
+                    "text": "as",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 4.74,
+                    "end": 5.19,
+                    "duration": 0.4500003,
+                    "text": "fast",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 5.19,
+                    "end": 5.34,
+                    "duration": 0.1500001,
+                    "text": "as",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 5.34,
+                    "end": 5.49,
+                    "duration": 0.14999962,
+                    "text": "they",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 5.49,
+                    "end": 5.91,
+                    "duration": 0.42000008,
+                    "text": "can.",
+                    "conf": 1,
+                    "pristine": true
+                }
+            ]
+        }
+    ],
+    "highlights": []
+}

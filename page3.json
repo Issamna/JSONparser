@@ -1,0 +1,148 @@
+﻿{
+    "id": "d9467720-acb3-4112-9703-73d7d49100e6",
+    "recordId": "zg13shrengmailcom_1597664151644_156445756",
+    "filename": "lava page 3.mp3",
+    "startTimeOffset": 0,
+    "speakers": [
+        {
+            "spkid": "spk1",
+            "name": "Speaker 1"
+        }
+    ],
+    "segments": [
+        {
+            "speaker": "spk1",
+            "words": [
+                {
+                    "start": 0.39,
+                    "end": 0.63,
+                    "duration": 0.24000001,
+                    "text": "You",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 0.63,
+                    "end": 0.78,
+                    "duration": 0.14999998,
+                    "text": "will",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 0.78,
+                    "end": 1.02,
+                    "duration": 0.24000001,
+                    "text": "want",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 1.02,
+                    "end": 1.14,
+                    "duration": 0.120000005,
+                    "text": "to",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 1.14,
+                    "end": 1.35,
+                    "duration": 0.21000004,
+                    "text": "make",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 1.35,
+                    "end": 1.62,
+                    "duration": 0.26999998,
+                    "text": "sure",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 1.62,
+                    "end": 1.77,
+                    "duration": 0.14999998,
+                    "text": "you",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 1.77,
+                    "end": 2.1,
+                    "duration": 0.32999992,
+                    "text": "play",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 2.1,
+                    "end": 2.25,
+                    "duration": 0.1500001,
+                    "text": "in",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 2.25,
+                    "end": 2.31,
+                    "duration": 0.059999943,
+                    "text": "a",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 2.31,
+                    "end": 2.64,
+                    "duration": 0.33000016,
+                    "text": "room",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 2.82,
+                    "end": 3.06,
+                    "duration": 0.24000001,
+                    "text": "that",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 3.06,
+                    "end": 3.36,
+                    "duration": 0.29999995,
+                    "text": "doesn't",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 3.36,
+                    "end": 3.57,
+                    "duration": 0.21000004,
+                    "text": "have",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 3.57,
+                    "end": 3.99,
+                    "duration": 0.42000008,
+                    "text": "anything",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 3.99,
+                    "end": 4.56,
+                    "duration": 0.56999993,
+                    "text": "breakable.",
+                    "conf": 1,
+                    "pristine": true
+                }
+            ]
+        }
+    ],
+    "highlights": []
+}

@@ -1,0 +1,164 @@
+﻿{
+    "id": "41674f1e-61e3-43a9-922f-2736c6a0b9a7",
+    "recordId": "zg13shrengmailcom_1597664151625_151828151",
+    "filename": "lava page 8.mp3",
+    "startTimeOffset": 0,
+    "speakers": [
+        {
+            "spkid": "spk1",
+            "name": "Speaker 1"
+        }
+    ],
+    "segments": [
+        {
+            "speaker": "spk1",
+            "words": [
+                {
+                    "start": 0.96,
+                    "end": 1.2,
+                    "duration": 0.24000007,
+                    "text": "You",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 1.2,
+                    "end": 1.41,
+                    "duration": 0.20999992,
+                    "text": "can",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 1.41,
+                    "end": 1.74,
+                    "duration": 0.33000004,
+                    "text": "also",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 1.74,
+                    "end": 1.98,
+                    "duration": 0.24000001,
+                    "text": "play",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 1.98,
+                    "end": 2.1,
+                    "duration": 0.119999886,
+                    "text": "the",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 2.1,
+                    "end": 2.4,
+                    "duration": 0.3000002,
+                    "text": "game",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 2.4,
+                    "end": 2.58,
+                    "duration": 0.17999983,
+                    "text": "by",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 2.58,
+                    "end": 3.18,
+                    "duration": 0.60000014,
+                    "text": "challenging",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 3.18,
+                    "end": 3.66,
+                    "duration": 0.48000002,
+                    "text": "players",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 3.66,
+                    "end": 3.75,
+                    "duration": 0.089999914,
+                    "text": "to",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 3.75,
+                    "end": 3.9,
+                    "duration": 0.1500001,
+                    "text": "get",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 3.9,
+                    "end": 4.41,
+                    "duration": 0.50999975,
+                    "text": "across",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 4.41,
+                    "end": 4.5,
+                    "duration": 0.09000015,
+                    "text": "the",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 4.5,
+                    "end": 4.83,
+                    "duration": 0.32999992,
+                    "text": "room",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 4.83,
+                    "end": 5.25,
+                    "duration": 0.42000008,
+                    "text": "without",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 5.25,
+                    "end": 5.64,
+                    "duration": 0.38999987,
+                    "text": "touching",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 5.64,
+                    "end": 5.7,
+                    "duration": 0.059999943,
+                    "text": "the",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 5.7,
+                    "end": 6.12,
+                    "duration": 0.42000008,
+                    "text": "floor.",
+                    "conf": 1,
+                    "pristine": true
+                }
+            ]
+        }
+    ],
+    "highlights": []
+}

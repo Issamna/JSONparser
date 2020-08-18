@@ -1,0 +1,148 @@
+﻿{
+    "id": "4a4d2d90-4658-4965-9f21-dca9443f30d1",
+    "recordId": "zg13shrengmailcom_1597664151648_157369277",
+    "filename": "lava page 2.mp3",
+    "startTimeOffset": 0,
+    "speakers": [
+        {
+            "spkid": "spk1",
+            "name": "Speaker 1"
+        }
+    ],
+    "segments": [
+        {
+            "speaker": "spk1",
+            "words": [
+                {
+                    "start": 0.68,
+                    "end": 0.98,
+                    "duration": 0.3,
+                    "text": "It's",
+                    "conf": 0.99,
+                    "pristine": true
+                },
+                {
+                    "start": 0.98,
+                    "end": 1.04,
+                    "duration": 0.059999943,
+                    "text": "a",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 1.04,
+                    "end": 1.43,
+                    "duration": 0.39,
+                    "text": "fun",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 1.43,
+                    "end": 1.64,
+                    "duration": 0.21000004,
+                    "text": "and",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 1.64,
+                    "end": 1.94,
+                    "duration": 0.30000007,
+                    "text": "easy",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 1.94,
+                    "end": 2.21,
+                    "duration": 0.26999998,
+                    "text": "game",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 2.21,
+                    "end": 2.33,
+                    "duration": 0.119999886,
+                    "text": "to",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 2.33,
+                    "end": 2.72,
+                    "duration": 0.3900001,
+                    "text": "play.",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 3.26,
+                    "end": 3.59,
+                    "duration": 0.32999992,
+                    "text": "All",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 3.59,
+                    "end": 3.74,
+                    "duration": 0.1500001,
+                    "text": "you",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 3.74,
+                    "end": 4.07,
+                    "duration": 0.33000016,
+                    "text": "need",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 4.07,
+                    "end": 4.28,
+                    "duration": 0.21000004,
+                    "text": "is",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 4.28,
+                    "end": 4.91,
+                    "duration": 0.62999964,
+                    "text": "permission",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 4.91,
+                    "end": 5.15,
+                    "duration": 0.24000025,
+                    "text": "from",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 5.15,
+                    "end": 5.24,
+                    "duration": 0.089999676,
+                    "text": "an",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 5.24,
+                    "end": 5.69,
+                    "duration": 0.4500003,
+                    "text": "adult.",
+                    "conf": 1,
+                    "pristine": true
+                }
+            ]
+        }
+    ],
+    "highlights": []
+}

@@ -1,0 +1,84 @@
+﻿{
+    "id": "29609a70-d4f7-428a-b19e-84a5c7766bcc",
+    "recordId": "zg13shrengmailcom_1597664151602_612140174",
+    "filename": "lava page 10.mp3",
+    "startTimeOffset": 0,
+    "speakers": [
+        {
+            "spkid": "spk1",
+            "name": "Speaker 1"
+        }
+    ],
+    "segments": [
+        {
+            "speaker": "spk1",
+            "words": [
+                {
+                    "start": 0.71,
+                    "end": 1.13,
+                    "duration": 0.42000002,
+                    "text": "That's",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 1.13,
+                    "end": 1.25,
+                    "duration": 0.120000005,
+                    "text": "how",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 1.25,
+                    "end": 1.37,
+                    "duration": 0.120000005,
+                    "text": "you",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 1.37,
+                    "end": 1.75,
+                    "duration": 0.38,
+                    "text": "play",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 1.76,
+                    "end": 1.88,
+                    "duration": 0.120000005,
+                    "text": "the",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 1.88,
+                    "end": 2.3,
+                    "duration": 0.41999996,
+                    "text": "floor",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 2.3,
+                    "end": 2.72,
+                    "duration": 0.42000008,
+                    "text": "is",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 2.72,
+                    "end": 3.2,
+                    "duration": 0.48000002,
+                    "text": "lava.",
+                    "conf": 1,
+                    "pristine": true
+                }
+            ]
+        }
+    ],
+    "highlights": []
+}
